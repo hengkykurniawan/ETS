@@ -10,7 +10,7 @@ Mari kita mulai kelas ini dengan harapan yang sehat.
 ### 2022 KKI
 
 * [Lukman hakim](./2018winter/Alcocer.html)
-* [Maria] (./2018winter/Falabella_and_Farver.html)
+* [Maria](./2018winter/Falabella_and_Farver.html)
 * [Arif R ](./2018winter/Flaherty.html)
 * [Lauren Lim](./2018winter/Lauren_Gilbert.html)
 * [Jessica Subono](./2018winter/Jessica_Kim.html) (Rady)
