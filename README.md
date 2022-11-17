@@ -7,18 +7,18 @@ Mari kita mulai kelas ini dengan harapan yang sehat.
 
 ---
 
-### 2018 Winter
+### 2022 KKI
 
-* [Marco Alcocer](./2018winter/Alcocer.html)
-* [Micah Farver and Leo Falabella](./2018winter/Falabella_and_Farver.html)
-* [Thomas Flaherty](./2018winter/Flaherty.html)
-* [Lauren Gilbert](./2018winter/Lauren_Gilbert.html)
-* [Jessica Kim](./2018winter/Jessica_Kim.html) (Rady)
-* [Mac Lockhart and Rachel Skillman](./2018winter/Lockhart_Skillman.htm)
-* [Ke Nie and Bolun Zhang](./2018winter/Nie_Zhang.html) (Sociology)
-* [Hernan Picatto](./2018winter/Picatto.html)
+* [Lukman hakim](./2018winter/Alcocer.html)
+* [Maria ] (./2018winter/Falabella_and_Farver.html)
+* [Arif R ](./2018winter/Flaherty.html)
+* [Lauren Lim](./2018winter/Lauren_Gilbert.html)
+* [Jessica Subono](./2018winter/Jessica_Kim.html) (Rady)
+* [Marhama](./2018winter/Lockhart_Skillman.htm)
+* [Kevin andora](./2018winter/Nie_Zhang.html) (Sociology)
+* [Herman hakim](./2018winter/Picatto.html)
 * [Cassidy Reller](./2018winter/Cassidy_Reller.html)
-* [Nick Smith and Nathan Mariano](./2018winter/Smith_Mariano.html)
-* [Raduan van Velthem Meira](./2018winter/Raduan.html) (Latin American Studies)
-* [Jiewen Xiao](./2018winter/Jiewen_Xiao.html) (Undergrad)
-* [Leo Yang](./2018winter/Leo_Yang.html)
+* [Nicki astria](./2018winter/Smith_Mariano.html)
+* [Raditya ](./2018winter/Raduan.html) (Latin American Studies)
+* [Junani ](./2018winter/Jiewen_Xiao.html) (Undergrad)
+* [Leo Putra perdana](./2018winter/Leo_Yang.html)
