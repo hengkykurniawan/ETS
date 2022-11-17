@@ -1,7 +1,9 @@
 ## Welcome to ETS 2022
 
-Mari kita mulai kelas ini dengan harapan yang sehat.
+Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
+### Silabus
+Silabus kali ini meliputi kuliah 2 tahun lalu. Silahkan download di bawah ini:
 
 [Syllabus](./2017spring/syllabus_273_17.pdf)
 
