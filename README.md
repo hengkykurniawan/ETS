@@ -8,6 +8,9 @@ Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pern
 Silabus kali ini meliputi kuliah 2 tahun lalu. Silahkan download di bawah ini:
 [Syllabus](./2017spring/syllabus_273_17.pdf)
 
+Lain kali kalau bisa lebih baik lagi ya
+
+
 ---
 
 ### 2022 KKI
