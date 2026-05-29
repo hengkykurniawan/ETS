@@ -17,6 +17,7 @@ Lain kali kalau bisa lebih baik lagi ya
 
 * [Elvero arkotomo ](./2018winter/Alcocer.html)
 * [Hengkor](./2018winter/Hengkor.md)
+* [Mila Romanso](./2018winter/regression.md)
 * [Maria](./2018winter/Falabella_and_Farver.html)
 * [Arif Roman ](./2018winter/Flaherty.html)
 * [Lauren Lim](./2018winter/Lauren_Gilbert.html)

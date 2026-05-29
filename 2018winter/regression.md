@@ -15,21 +15,25 @@ Spatial econometrics is the study of spatially correlated data and the dependenc
 1. Spatial Lag Model (SLM)
    - Also known as the spatial autoregressive model.
    - Includes a spatially lagged dependent variable to capture the influence of neighboring outcomes on the focal outcome.
-   - Equation form: `y = ρW y + Xβ + ε`.
+   - Equation form:  
+     `y = ρ W y + X β + ε`
 
 2. Spatial Error Model (SEM)
    - Models spatial correlation in the error term instead of the dependent variable.
    - Useful when omitted spatially correlated variables affect the dependent variable.
-   - Equation form: `y = Xβ + u`, with `u = λW u + ε`.
+   - Equation form:  
+     `y = X β + u`, with `u = λ W u + ε`
 
 3. Spatial Durbin Model (SDM)
    - Combines spatial lag effects for both the dependent variable and the independent variables.
    - Allows direct effects of covariates and indirect spillovers through neighboring observations.
-   - Equation form: `y = ρW y + Xβ + W Xθ + ε`.
+   - Equation form:  
+     `y = ρ W y + X β + W X θ + ε`
 
 4. Spatial Autoregressive Combined Model (SAC)
    - Also called the Spatial Autoregressive Moving Average (SARAR) model.
    - Includes both a spatial lag on the dependent variable and spatial autocorrelation in the error term.
-   - Equation form: `y = ρW y + Xβ + u`, with `u = λW u + ε`.
+   - Equation form:  
+     `y = ρ W y + X β + u`, with `u = λ W u + ε`
 
 These spatial econometrics models help researchers account for geographic spillovers, improve estimation accuracy, and avoid bias from unmodeled spatial dependence.
