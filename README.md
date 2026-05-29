@@ -5,7 +5,7 @@ Halo Semua,
 Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
 ## Silabus
-Baca laporan ekonomi berikut karena ini yang paling penting (./2018winter/bosnia.pdf)
+Baca laporan ekonomi berikut karena ini yang paling penting [laporan ekonomi](./2018winter/bosnia.pdf)
 
 Lain kali kalau bisa lebih baik lagi ya
 
