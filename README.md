@@ -1,12 +1,11 @@
-## Welcome to ETS 2022
+# Welcome to ETS 2022
 
 Halo Semua,
 
 Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
-### Silabus
-Silabus kali ini meliputi kuliah 2 tahun lalu. Silahkan download di bawah ini:
-[Syllabus](./2018winter/bosnia.pdf)
+## Silabus
+Baca laporan ekonomi berikut karena ini yang paling penting (./2018winter/bosnia.pdf)
 
 Lain kali kalau bisa lebih baik lagi ya
 
