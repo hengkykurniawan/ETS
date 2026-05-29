@@ -1,36 +1,3 @@
-# Using ChatGPT (OpenAI) and Claude (Anthropic) in VS Code
-
-Quick scaffold with example scripts to call OpenAI (ChatGPT) and Anthropic (Claude) from VS Code's terminal or tasks.
-
-Setup (Windows PowerShell):
-
-1. Add your API keys (restart your terminal afterwards):
-
-```powershell
-setx OPENAI_API_KEY "sk-..."
-setx ANTHROPIC_API_KEY "api-..."
-```
-
-2. Install dependencies (recommended in a virtual environment):
-
-```powershell
-python -m venv .venv
-.venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
-
-3. Run examples:
-
-```powershell
-python scripts/openai_chat.py "Summarize my project"
-python scripts/anthropic_chat.py "Summarize my project"
-```
-
-VS Code tasks: open the Command Palette → `Tasks: Run Task` → choose `OpenAI: Run example` or `Anthropic: Run example`.
-
-Notes:
-- Keep your keys private — don't commit them.
-- If you want VS Code inline completions or chat UI, search the Extensions marketplace for OpenAI/Anthropic integrations.
 # Welcome to ETS 2022
 
 Halo Semua,
