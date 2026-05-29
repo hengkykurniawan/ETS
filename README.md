@@ -4,8 +4,8 @@ Halo Semua,
 
 Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
-## ekonomi bosnia
-Mau lihat perkembangan ekonomi Bosnia. Silahkan download di bawah ini:
+## Silabus
+Baca laporan ekonomi berikut karena ini yang paling penting:
 [Syllabus](./2018winter/bosnia.pdf)
 
 Lain kali kalau bisa lebih baik lagi ya
