@@ -4,7 +4,7 @@
 **Date:** March 1, 2018  
 **Name:** Hengkor
 
-This page is based on the original `Alcocer.html` article.
+
 
 ## Introduction
 
@@ -27,3 +27,21 @@ To test the hypothesis proposed above, we can use a regression discontinuity des
 To implement the RDD described above, this analysis uses data from the Mexican electoral agency (INE) on 152 municipal elections that occurred between 2007 and 2008 where PAN won or lost by a 5% margin or less. Monthly data on municipal homicide rates (homicides per 100,000) are used from the Mexican Office of the President. Finally, the covariate data comes from the Mexican National Statistical Agency (INEGI).
 
 The covariate balance table compares municipalities where PAN won and where PAN lost. The table shows the mean for treated and control groups, along with the standard mean difference and the corresponding p-value. As can be seen, the covariates are fairly balanced.
+
+## Spatial Econometrics Equations
+
+Spatial econometrics models explicitly incorporate spatial dependence through a spatial weights matrix `W`.
+
+- Spatial Lag Model (SLM):  
+  `y = ρ W y + X β + ε`
+
+- Spatial Error Model (SEM):  
+  `y = X β + u`, with `u = λ W u + ε`
+
+- Spatial Durbin Model (SDM):  
+  `y = ρ W y + X β + W X θ + ε`
+
+- Spatial Autoregressive Combined Model (SAC):  
+  `y = ρ W y + X β + u`, with `u = λ W u + ε`
+
+In these equations, `y` is the dependent variable vector, `X` is the matrix of explanatory variables, `W` is the spatial weights matrix, `ρ` is the spatial lag coefficient, `λ` is the spatial error coefficient, and `ε` is the vector of independent disturbances.
