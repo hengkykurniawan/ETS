@@ -1,0 +1,39 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "OpenAI: Run example",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/scripts/openai_chat.py",
+                "${input:prompt}"
+            ],
+            "presentation": {
+                "echo": true,
+                "reveal": "always"
+            }
+        },
+        {
+            "label": "Anthropic: Run example",
+            "type": "shell",
+            "command": "python",
+            "args": [
+                "${workspaceFolder}/scripts/anthropic_chat.py",
+                "${input:prompt}"
+            ],
+            "presentation": {
+                "echo": true,
+                "reveal": "always"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "prompt",
+            "type": "promptString",
+            "description": "Prompt to send to the model",
+            "default": "Say hello from VS Code"
+        }
+    ]
+}
