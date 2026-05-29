@@ -1,5 +1,7 @@
 ## Welcome to ETS 2022
 
+Halo Semua,
+
 Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
 ### Silabus
@@ -10,9 +12,9 @@ Silabus kali ini meliputi kuliah 2 tahun lalu. Silahkan download di bawah ini:
 
 ### 2022 KKI
 
-* [Lukman hakim](./2018winter/Alcocer.html)
+* [Elvero arkotomo ](./2018winter/Alcocer.html)
 * [Maria](./2018winter/Falabella_and_Farver.html)
-* [Arif R ](./2018winter/Flaherty.html)
+* [Arif Roman ](./2018winter/Flaherty.html)
 * [Lauren Lim](./2018winter/Lauren_Gilbert.html)
 * [Jessica Subono](./2018winter/Jessica_Kim.html) (KKI)
 * [Marhama](./2018winter/Lockhart_Skillman.htm)
