@@ -1,19 +1,20 @@
-## Welcome to ETS 2022
+# Welcome to ETS 2022
 
 Halo Semua,
 
 Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
-### ekonomi bosnia
+## ekonomi bosnia
 Mau lihat perkembangan ekonomi Bosnia. Silahkan download di bawah ini:
-[Syllabus](./2018spring/bosnia.pdf)
+[Syllabus](./2018winter/bosnia.pdf)
 
 Lain kali kalau bisa lebih baik lagi ya
 
-
+## Masalah utama
+Perbuatan yang paling parah adalah:
 ---
 
-### 2022 KKI
+### Daftar Nama Mahasiswa:
 
 * [Elvero arkotomo ](./2018winter/Alcocer.html)
 * [Hengkor](./2018winter/Hengkor.md)
