@@ -6,7 +6,7 @@ Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pern
 
 ## Silabus
 Baca laporan ekonomi berikut karena ini yang paling penting:
-[Syllabus](./2018winter/bosnia.pdf)
+[Bosnia Economics](./2018winter/bosnia.pdf)
 
 Lain kali kalau bisa lebih baik lagi ya
 
