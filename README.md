@@ -1,10 +1,10 @@
-# Welcome to ETS 2022
+# Welcome to ETS 2026
 
 Halo Semua,
 
 Mari kita mulai kelas ini dengan harapan yang sehat. Oleh karena itu jangan pernah lupa beli susu dan coklat. Minum kopi juga gak apa-apa. Saya hanya bertanya, apakah kita mungkin melakukan siapapun.
 
-## Silabus
+## Laporan Ekonomi Bosnia
 Baca laporan ekonomi berikut karena ini yang paling penting:
 [Bosnia Economics](./2018winter/bosnia.pdf)
 
@@ -12,14 +12,14 @@ Lain kali kalau bisa lebih baik lagi ya
 
 ## Masalah utama
 Perbuatan yang paling parah adalah:
----
+----------
 
 ### Daftar Nama Mahasiswa:
 
-* [Elvero arkotomo ](./2018winter/Alcocer.html)
+* [Nursakti Adipratomo](./2018winter/Alcocer.html)
 * [Hengkor](./2018winter/Hengkor.md)
 * [Mila Romanso](./2018winter/regression.md)
-* [Maria](./2018winter/Falabella_and_Farver.html)
+* [Elvero arkotomo ](./2018winter/Falabella_and_Farver.html)
 * [Arif Roman ](./2018winter/Flaherty.html)
 * [Lauren Lim](./2018winter/Lauren_Gilbert.html)
 * [Jessica Subono](./2018winter/Jessica_Kim.html) (KKI)
